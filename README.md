@@ -36,3 +36,5 @@ $ python manage.py runserver
 Once the server is hosted, head over to http://127.0.0.1:8000for the App.
 
 Cheers and Happy Coding :)
+
+Made with ❤️ by [@ZaidArman](https://github.com/ZaidArman) :wave: [Get in touch](https://www.linkedin.com/in/zaid-ullah07/)
